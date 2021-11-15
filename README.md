@@ -15,36 +15,25 @@ Imbalanced-learn package with the following dependencies:
 - SciPy, version 0.17 or later
 - Scikit-learn, version 0.21 or later
 
+### Data
+
+[Loan Stats Data](https://github.com/KimberlyCrawford/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv)
+
 ## Deliverable 1 Use Resampling Models to Predict Credit Risk
 
 Using the imbalanced-learn and scikit-learn libraries, the following three machine learning models were evaluated by using resampling to determine which is better at predicting credit risk. 
 
 1) Oversampling RandomOverSampler Algorithm
 
-- resample the dataset
-- view the count of the target classes
-- a logistic regression classifier
-- calculate the balanced accuracy score
-- generate a confusion matrix
-- generate a classification report
+
 
 2) Oversampling SMOTE Algorithm
 
-- resample the dataset
-- view the count of the target classes
-- a logistic regression classifier
-- calculate the balanced accuracy score
-- generate a confusion matrix
-- generate a classification report
+
 
 3) Undersampling ClusterCentroids Algorithm
 
-- resample the dataset
-- view the count of the target classes
-- a logistic regression classifier
-- calculate the balanced accuracy score
-- generate a confusion matrix
-- generate a classification report
+
 
 
 
