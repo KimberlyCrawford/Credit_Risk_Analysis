@@ -25,26 +25,21 @@ Using the imbalanced-learn and scikit-learn libraries, the following three machi
 
 1) Oversampling RandomOverSampler Algorithm
 
-
+![RandomOverSampler.png](https://github.com/KimberlyCrawford/Credit_Risk_Analysis/blob/main/Images/RandomOverSampler.png)
 
 2) Oversampling SMOTE Algorithm
 
-
+![SmoteOverSampler.png](https://github.com/KimberlyCrawford/Credit_Risk_Analysis/blob/main/Images/SmoteOverSampler.png)
 
 3) Undersampling ClusterCentroids Algorithm
 
-
-
-
-
-
-
-
+![Smoteenn.png](https://github.com/KimberlyCrawford/Credit_Risk_Analysis/blob/main/Images/Smoteenn.png)
 
 ## Deliverable 2 Use the SMOTEENN Algorithm to Predict Credit Risk
 
 Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’ll use a combinatorial approach of over- and undersampling with the SMOTEENN algorithm to determine if the results from the combinatorial approach are better at predicting credit risk than the resampling algorithms from Deliverable 1. Using the SMOTEENN algorithm, you’ll resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
+![ClusterCentroids.png](https://github.com/KimberlyCrawford/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
