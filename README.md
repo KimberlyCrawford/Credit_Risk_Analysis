@@ -65,3 +65,5 @@ Summarize the results of the machine learning models, and include a recommendati
 notes; By using the latest machine learning techniques, these FinTech firms can continuously analyze large amounts of data and predict trends to optimize lending.
 
 use Python to build and evaluate several machine learning models to predict credit risk. Being able to predict credit risk with machine learning algorithms can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
+
+#### Module 17, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
